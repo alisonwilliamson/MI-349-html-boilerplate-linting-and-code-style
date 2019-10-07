@@ -1,0 +1,8 @@
+{
+    "editor.tabSize": 2,
+    "editor.renderWhitespace": "boundary",
+    "files.insertFinalNewline": true,
+    "editor.rules": [
+        80
+    ]
+}
